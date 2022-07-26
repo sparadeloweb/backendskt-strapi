@@ -15,7 +15,8 @@
     "@strapi/plugin-users-permissions": "4.2.3",
     "@strapi/strapi": "4.2.3",
     "better-sqlite3": "7.4.6",
-    "strapi-plugin-html-wysiwyg": "^1.0.5"
+    "@ckeditor/ckeditor5-build-classic": "^34.2.0",
+    "@ckeditor/ckeditor5-react": "github:ckeditor/ckeditor5-react"
   },
   "author": {
     "name": "A Strapi developer"
