@@ -8,7 +8,9 @@
     "kind": "plugin",
     "displayName": "Wysiwyg"
   },
-  "dependencies": {},
+  "dependencies": {
+    "@tinymce/tinymce-react": "^4.1.0"
+  },
   "author": {
     "name": "A Strapi developer"
   },
