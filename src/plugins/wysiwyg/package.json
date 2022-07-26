@@ -9,7 +9,8 @@
     "displayName": "Wysiwyg"
   },
   "dependencies": {
-    "@tinymce/tinymce-react": "^4.1.0"
+    "@ckeditor/ckeditor5-build-classic": "^34.2.0",
+    "@ckeditor/ckeditor5-react": "github:ckeditor/ckeditor5-react"
   },
   "author": {
     "name": "A Strapi developer"
