@@ -5,7 +5,7 @@ module.exports = () => {
             enabled: true,
             config: {
               contentTypes: {
-                article: {
+                post: {
                   field: 'slug',
                   references: 'title',
                 },
