@@ -1773,7 +1773,7 @@
     "@strapi/utils" "4.2.3"
     "fs-extra" "10.0.0"
 
-"@strapi/strapi@^4.0.0", "@strapi/strapi@4.2.3":
+"@strapi/strapi@^4.0.0", "@strapi/strapi@^4.0.7", "@strapi/strapi@4.2.3":
   "integrity" "sha512-kK7sBD1/xX5Kf4knESZcYF4mUTrbbLVt15v62UROcnga7ZNWt4QlzVJEL8y6R02n1HWVg6brslQ9aegLE08E8Q=="
   "resolved" "https://registry.npmjs.org/@strapi/strapi/-/strapi-4.2.3.tgz"
   "version" "4.2.3"
@@ -1830,7 +1830,7 @@
     "statuses" "2.0.1"
     "uuid" "^3.3.2"
 
-"@strapi/utils@4.2.3":
+"@strapi/utils@^4.0.7", "@strapi/utils@4.2.3":
   "integrity" "sha512-ICkOI+JqSYyocwazZlaUz6oHgacyx3H5V9edeAdhISXjfZRX6GjtUDElTfQdGj9xsUUYSApFvY0DaiLTc0Utpg=="
   "resolved" "https://registry.npmjs.org/@strapi/utils/-/utils-4.2.3.tgz"
   "version" "4.2.3"
@@ -9303,6 +9303,13 @@
   "integrity" "sha512-/c645XdExBypL01TpFKiG/3RAa/Qmu+zRi0MwAmrdEkwHNuN0ebo8ccAXBBDa5Z0QOJgBskUIbuCK91x0sCVEw=="
   "resolved" "https://registry.npmjs.org/std-env/-/std-env-3.1.1.tgz"
   "version" "3.1.1"
+
+"strapi-plugin-slugify@^2.2.2":
+  "integrity" "sha512-Kra7uXZUM+70m02Qoa/su+HxBxqrFhxyLt/B90kd4LwnEjebXA6nsAsa0dxafMunQfqWQey7JOV+qToB4a3FXg=="
+  "resolved" "https://registry.npmjs.org/strapi-plugin-slugify/-/strapi-plugin-slugify-2.2.2.tgz"
+  "version" "2.2.2"
+  dependencies:
+    "@sindresorhus/slugify" "1.1.0"
 
 "stream-browserify@^3.0.0":
   "integrity" "sha512-H73RAHsVBapbim0tU2JwwOiXUj+fikfiaoYAKHF3VJfA0pe2BCzkhAHBlLG6REzE+2WNZcxOXjK7lkso+9euLA=="
